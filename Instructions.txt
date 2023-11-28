@@ -6,3 +6,9 @@
 
 Completed pizza order?
 Decide how you want to pay.
+
+Post delivery:
+Did they deliver the correct pizza?
+   If no, did they include mushrooms or Durian?
+      Yes? Send it back and ask for a new one.
+      No? Eat it and delete them from shop list.
